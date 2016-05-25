@@ -1,2 +1,4 @@
 #!/bin/bash
-java -jar ProofRenderer.jar -f "$9" -t
+SCRIPT=$(readlink -f $0)
+SCRIPTPATH=`dirname $SCRIPT`
+java -jar $(SCRIPTPATH)/ProofRenderer.jar -f "$9" -t
