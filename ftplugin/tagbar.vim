@@ -20,5 +20,6 @@ let g:tagbar_type_prooftree = {
     \ },
     \ 'scope2kind': {
     \   'tree' : 'n'
-    \ }
+    \ },
+    \ 'sort' : 0
 \ }
