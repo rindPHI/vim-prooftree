@@ -13,7 +13,7 @@ let g:tagbar_type_prooftree = {
         \ 'o:OperatorDefinition',
         \ 'n:ProofNode',
     \ ],
-    \ 'sort' : 1,
+    \ 'sort' : 0,
     \ 'sro' : '.',
     \ 'kind2scope': {
     \   'n' : 'tree'
@@ -21,5 +21,4 @@ let g:tagbar_type_prooftree = {
     \ 'scope2kind': {
     \   'tree' : 'n'
     \ },
-    \ 'sort' : 0
 \ }
