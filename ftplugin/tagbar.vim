@@ -8,9 +8,9 @@ let g:tagbar_type_prooftree = {
     \ 'ctagsbin' : expand('<sfile>:p:h:h') . '/ctags/extractTags',
     \ 'ctagsargs' : '',
     \ 'kinds' : [
-        \ 'u:Use Packages',
-        \ 'm:Macro Definitions',
-        \ 'o:Operator Definitions',
+        \ 'u:Use Packages:1:0',
+        \ 'm:Macro Definitions:1:0',
+        \ 'o:Operator Definitions:1:0',
         \ 'n:Proof Node:0:1',
     \ ],
     \ 'sort' : 0,
