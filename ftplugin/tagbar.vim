@@ -16,9 +16,9 @@ let g:tagbar_type_prooftree = {
     \ 'sort' : 0,
     \ 'sro' : '.',
     \ 'kind2scope': {
-    \   'n' : 'tree'
+    \   'n' : 'node'
     \ },
     \ 'scope2kind': {
-    \   'tree' : 'n'
+    \   'node' : 'n'
     \ },
 \ }
