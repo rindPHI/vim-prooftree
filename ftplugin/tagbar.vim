@@ -14,7 +14,7 @@ let g:tagbar_type_prooftree = {
         \ 'n:ProofNode',
     \ ],
     \ 'sort' : 1,
-    \ 'sro' : ':',
+    \ 'sro' : '.',
     \ 'kind2scope': {
     \   'n' : 'tree'
     \ },
