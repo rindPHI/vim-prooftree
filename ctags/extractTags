@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar $(dirname "$0")/ProofRenderer.jar -f "$9" -t
+java -jar $(dirname "$0")/ProofRenderer.jar -f "$1" -t
