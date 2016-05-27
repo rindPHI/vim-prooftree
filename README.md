@@ -3,7 +3,7 @@
 VIM support for proof tree definition files.
 
 Provides syntax highlighting, folding and [Tagbar](https://github.com/majutsushi/tagbar/)
-integration for prooftree (.pt) definition files.
+integration for [prooftree (.pt) definition files](https://github.com/rindPHI/ProofRenderer).
 
 ## Mappings
 
