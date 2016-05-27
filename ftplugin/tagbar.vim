@@ -11,7 +11,7 @@ let g:tagbar_type_prooftree = {
         \ 'u:Use Packages:1:0',
         \ 'm:Macro Definitions:1:0',
         \ 'o:Operator Definitions:1:0',
-        \ 'n:Proof Node:0:1',
+        \ 'n:Proof Nodes:0:1',
         \ 't:Proof Tree:0:1',
     \ ],
     \ 'sort' : 0,
