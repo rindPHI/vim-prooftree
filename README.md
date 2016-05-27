@@ -8,7 +8,7 @@ integration for prooftree (.pt) definition files.
 ## Mappings
 
 The combination `<leader>pc` (the leader key is usually either the backslash or the comma)
-initiates the translation of your .pt file to LaTeX and compiles it via pdflatex. It is required
+initiates the translation of your ".pt" file to LaTeX and compiles it via pdflatex. It is required
 that the [ProofRenderer.jar](https://github.com/rindPHI/ProofRenderer) executable is in your PATH.
 *Note*: ProofRenderer is also contained in the ctags/ directory of this plugin. You may also put
 this file into your path instead of downloading it from the dedicated repository.
