@@ -12,13 +12,14 @@ let g:tagbar_type_prooftree = {
         \ 'm:Macro Definitions:1:0',
         \ 'o:Operator Definitions:1:0',
         \ 'n:Proof Node:0:1',
+        \ 't:Proof Tree:0:1',
     \ ],
     \ 'sort' : 0,
     \ 'sro' : '.',
     \ 'kind2scope': {
-    \   'n' : 'tree'
+    \   't' : 'tree'
     \ },
     \ 'scope2kind': {
-    \   'tree' : 'n'
+    \   'tree' : 't'
     \ },
 \ }
